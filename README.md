@@ -1,2 +1,2 @@
 - Spent about 20 minutes for Camera Permissions and about 30 minutes to Questions.
-- With more time UI for Camera Permissions can be better.
+- With more time UI for Camera Permissions can be better, Husky, lint
